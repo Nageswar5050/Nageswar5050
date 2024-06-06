@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **@Nageswar5050**
 - 👀 I’m interested in **Technology**
 - 🌱 I’m currently learning **DEVOPS**
+- All passwords in my github account are DUMMY Passwords
 
 <!---
 Nageswar5050/Nageswar5050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
