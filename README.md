@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageswar5050&label=Profile%20views&color=0e75b6&style=flat" alt="nageswar5050" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nageswar5050" alt="nageswar5050" /></a> </p>
-
 - 🔭 I’m currently working on [Google - Microsoft Demo](https://github.com/Nageswar5050/microservices-demo)
 
 - 🌱 I’m currently learning **DevOps**
