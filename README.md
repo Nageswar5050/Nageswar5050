@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nageswara Rao Challa</h1>
-<h3 align="center">A passionate DevOps Engineer focused on automation and cloud technologies for efficiency from India</h3>
+<h3 align="center">A passionate Network and Security Engineer focused on Enterprise Network and cloud technologies for efficiency from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageswar5050&label=Profile%20views&color=0e75b6&style=flat" alt="nageswar5050" /> </p>
 
-- 🔭 I’m currently working on [Google - Microsoft Demo](https://github.com/Nageswar5050/microservices-demo)
+- 🌱 I’m currently learning **Checkpoint**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, Nginx, Golang**
+- 💬 Ask me about **Enterprise and Data center network, Cloud Computing (AWS, Microsoft Azure), Linux System Administration, Git, Docker, Terraform, Ansible, Bash Scripting, Cybersecurity, Web Services, Nginx**
 
 - 📫 How to reach me **nageswar0550@gmail.com**
 
